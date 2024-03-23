@@ -1,4 +1,4 @@
-const division = (num1: number, num2: number) => {
+const minus = (num1: number, num2: number) => {
     let result = num1-num2       
     return result
 }
